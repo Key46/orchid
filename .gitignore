@@ -12,3 +12,7 @@ bundle.js
 perf.data
 perf.data.old
 site/
+
+# XXX: work around bugs in flutter's .gitignore
+/app-flutter/macos/DerivedData
+/app-flutter/macos/Flutter/GeneratedPluginRegistrant.swift
